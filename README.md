@@ -16,7 +16,7 @@ This project aims to verify if the most common stereotypes about computer progra
 Questions to answer
 1. What is the language most popular among developers and how has this changed across the years? Is python the most used language?  
 2. What Operating System do programmers prefer to use? Is it windows?  
-3 .What educational background do programming professionals have and does this have an impact on salary in 2020? Can people who don't have a master's or a Doctoral degree become programmers as well?  
+3. What educational background do programming professionals have and does this have an impact on salary in 2020? Can people who don't have a master's or a Doctoral degree become programmers as well?  
 
 ## File Descriptions
 
